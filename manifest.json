@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "ReloadBO",
+  "version": "1.0.0",
+  "description": "Professional cache cleaner and hard refresh tool for enterprise environments. Resolves infinite loading loops and cache-related issues with a single click.",
+  "author": "Enterprise IT Team",
+  "homepage_url": "https://company.com",
+  "permissions": [
+    "tabs",
+    "browsingData",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "ReloadBO - Cache Cleaner",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "minimum_chrome_version": "88"
+}
