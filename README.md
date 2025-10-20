@@ -94,8 +94,6 @@ La extensión usa una paleta de colores corporativa:
 - **Cian**: `#06b6d4`
 - **Verde Éxito**: `#10b981`
 
-### Iconos
-Reemplaza los archivos `icon16.png`, `icon48.png`, `icon128.png` con tus propios iconos.
 
 ## 🔒 Seguridad
 
@@ -119,40 +117,4 @@ Reemplaza los archivos `icon16.png`, `icon48.png`, `icon128.png` con tus propios
 - Verifica que el CSS esté cargado correctamente
 - Revisa la consola para errores de JavaScript
 
-## 📝 Changelog
 
-### v1.0.0
-- Lanzamiento inicial
-- Hard refresh automático
-- Limpieza de caché
-- Cierre de conexiones
-- Animación de éxito
-- Diseño profesional
-
-## 🤝 Contribución
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 👥 Equipo
-
-- **Desarrollado por**: Enterprise IT Team
-- **Empresa**: XEPELIN
-- **Contacto**: [tu-email@xepelin.com](mailto:tu-email@xepelin.com)
-
-## 🙏 Agradecimientos
-
-- Inspirado en la necesidad de resolver loops infinitos en aplicaciones web
-- Diseño inspirado en MercadoLibre para la animación de éxito
-- Colores corporativos de XEPELIN
-
----
-
-**ReloadBO** - Simplificando el desarrollo web empresarial 🚀
