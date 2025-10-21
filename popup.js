@@ -671,7 +671,7 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Show error for a moment then reset
             setTimeout(() => {
-                buttonText.textContent = 'ReloadBO';
+                buttonText.textContent = 'Recargar página actual';
                 hideStatus();
                 reloadButton.disabled = false;
             }, 3000);
