@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ReloadBO",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Professional cache cleaner and hard refresh tool for enterprise environments. Resolves infinite loading loops and cache-related issues with a single click.",
   "author": "Enterprise IT Team",
   "homepage_url": "https://company.com",
