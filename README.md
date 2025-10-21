@@ -12,17 +12,6 @@ Una extensión profesional de Chrome para limpiar caché y realizar hard refresh
 - **Limpieza de Caché**: Borra caché de archivos CSS, JS e imágenes
 - **Cierre de Conexiones**: Cierra WebSockets y conexiones colgadas
 - **Preserva Sesiones**: No afecta cookies ni datos de login
-- **Animación de Éxito**: Feedback visual tipo MercadoLibre
-- **Diseño Profesional**: Interfaz moderna con colores corporativos
-
-## 📋 Requisitos
-
-- Google Chrome 88+
-- Manifest V3
-- Permisos: `tabs`, `browsingData`, `activeTab`, `scripting`
-
-## 🛠️ Instalación
-
 ### Para Desarrollo
 
 1. Clona el repositorio:
