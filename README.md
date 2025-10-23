@@ -24,12 +24,6 @@ cd reloadbo
 3. Activa el "Modo de desarrollador"
 4. Haz clic en "Cargar extensión sin empaquetar"
 5. Selecciona la carpeta del proyecto
-
-### Para Producción
-
-1. Descarga el archivo `.crx` desde [Releases](../../releases)
-2. Arrastra el archivo a `chrome://extensions/`
-
 ## 📁 Estructura del Proyecto
 
 ```
